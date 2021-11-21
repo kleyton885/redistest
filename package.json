@@ -1,0 +1,16 @@
+{
+  "name": "redistest",
+  "version": "1.0.0",
+  "description": "aplicação de teste de cache para o sgbd postgres usando redis e nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^8.7.1",
+    "promise-redis": "^0.0.5",
+    "prompt-sync": "^4.2.0"
+  }
+}
